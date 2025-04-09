@@ -1,5 +1,5 @@
 # Unpaired_SR_Fluid_Dynamics
-This project provides codes for the paper [DIFFUSION-BASED MODELS FOR UNPAIRED SUPER-RESOLTUON IN FLUID DYNAMICS]. Currently, we are publishing sample code for solving the Navier–Stokes equations. The full code will be released once the paper is officially published.
+This project provides codes for the paper [DIFFUSION-BASED MODELS FOR UNPAIRED SUPER-RESOLTUON IN FLUID DYNAMICS]. Currently, we are publishing sample code for the Navier–Stokes equations. The full code will be released once the paper is officially published.
 
 # Usage of code
 This section outlines the standard procedure for utilizing the code, with a focus on the implementation of the 2D Navier-stokes snapshot data. The Jupyter notebook step by step demonstration is in the 'Demo.ipynb'.  
